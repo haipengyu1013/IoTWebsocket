@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>server.qml</file>
+        <file>connection.qml</file>
+    </qresource>
+</RCC>
